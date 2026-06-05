@@ -23,7 +23,7 @@
 | 第8篇 | 用discard切开模型 | [08-discard-clipping.md](articles/08-discard-clipping.md) | ✅ 完成 |
 | 第9篇 | 给剖切面上色 | [09-section-coloring.md](articles/09-section-coloring.md) | ✅ 完成 |
 | 第10篇 | SDF是什么：有向距离场入门 | [10-sdf-intro.md](articles/10-sdf-intro.md) | ✅ 完成 |
-| 第11篇 | SDF布尔运算：并、交、差 | [11-sdf-boolean.md](articles/11-sdf-boolean.md) | ⏳ 待写 |
+| 第11篇 | SDF布尔运算：并、交、差 | [11-sdf-boolean.md](articles/11-sdf-boolean.md) | ✅ 完成 |
 | 第12篇 | 剖切动画 | [12-clipping-animation.md](articles/12-clipping-animation.md) | ⏳ 待写 |
 
 ## 系列三：后处理/全屏效果（第13-18篇）
