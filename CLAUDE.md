@@ -25,8 +25,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 详见 [PROGRESS.md](PROGRESS.md)。
 
-已完成：第1-3篇（Shader入门、UV坐标、空间坐标系）
-待完成：第4-8篇（纹理采样、数学函数、Noise、溶解特效、SDF剖切）
+已完成：第1-12篇（Shader入门 → 剖切动画）
+待完成：第13-49篇（全屏Shader、风格化渲染、顶点着色器等）
 
 ## 写作规范
 

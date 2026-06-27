@@ -2,7 +2,7 @@
 
 ## 当前状态
 
-**日期**: 2026-05-22
+**日期**: 2026-06-18
 
 ## 系列一：基础篇（第1-5篇）
 
@@ -24,7 +24,7 @@
 | 第9篇 | 给剖切面上色 | [09-section-coloring.md](articles/09-section-coloring.md) | ✅ 完成 |
 | 第10篇 | SDF是什么：有向距离场入门 | [10-sdf-intro.md](articles/10-sdf-intro.md) | ✅ 完成 |
 | 第11篇 | SDF布尔运算：并、交、差 | [11-sdf-boolean.md](articles/11-sdf-boolean.md) | ✅ 完成 |
-| 第12篇 | 剖切动画 | [12-clipping-animation.md](articles/12-clipping-animation.md) | ⏳ 待写 |
+| 第12篇 | 剖切动画 | [12-clipping-animation.md](articles/12-clipping-animation.md) | ✅ 完成 |
 
 ## 系列三：后处理/全屏效果（第13-18篇）
 
@@ -126,4 +126,4 @@
 
 ---
 
-*最后更新: 2026-05-22*
+*最后更新: 2026-06-18*
